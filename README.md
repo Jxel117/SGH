@@ -32,3 +32,4 @@ o	La clase Cita Médica depende de las clases Paciente y Doctor para gestionar l
 9.	Atributos de solo lectura y de clase:
 o	Los atributos como el número de identificación y la especialidad de los doctores deben ser de solo lectura.
 o	Los contadores de citas médicas pueden ser atributos de clase para llevar el registro a nivel del sistema.
+<p><img src="https://raw.githubusercontent.com/Jxel117/SGH/main/imagen_2024-05-14_100918906.png"
